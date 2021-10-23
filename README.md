@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/8jkILOO8fV031qxWl6/giphy.mp4" align="right" width="400" height="200">
+<iframe src="https://giphy.com/embed/S9oecmLUi26zYzrTZt" width="480" height="209" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/telegraphcreative-technology-it-cto-S9oecmLUi26zYzrTZt">via GIPHY</a></p>
 
 # Hi There, I'm Uygar. :wave:
 
