@@ -12,5 +12,5 @@
 <br>
 <br>
 
-[linkedin]: https://www.linkedin.com/in/uygar-s%C3%BCsl%C3%BC-52ab51216/ 
-[twitter]: https://twitter.com/uygarsusluu
+[linkedin] : https://www.linkedin.com/in/uygar-s%C3%BCsl%C3%BC-52ab51216/ 
+[twitter] : https://twitter.com/uygarsusluu
