@@ -1,4 +1,3 @@
-<img src="https://media.giphy.com/media/H3CViADSOAHdK/giphy.gif" align="right" width="" height="">
 <img src="your_cool_intro.gif">
 
 # Hi There, I'm Uygar <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>
