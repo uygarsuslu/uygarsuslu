@@ -1,6 +1,6 @@
 <img src="your_cool_intro.gif">
 
-# Hi There, I'm Uygar <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>
+# Hi There, I'm Uygar <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50>
 
 ## A passionate Turkish software student in the field of front end who trying to improve yourself with the growing technology :computer:
 
