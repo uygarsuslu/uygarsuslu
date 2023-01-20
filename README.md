@@ -7,7 +7,6 @@
 ## Contact Me! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70">
 
 <a href = 'https://www.linkedin.com/in/uygar-s%C3%BCsl%C3%BC-52ab51216/'><img src="https://img.icons8.com/doodle/50/000000/linkedin--v2.png"/>
-<a href = 'https://twitter.com/uygarsusluu'><img src="https://img.icons8.com/doodle/51/000000/twitter.png"/>
 
 ## Teach I Use
 
