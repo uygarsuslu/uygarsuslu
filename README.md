@@ -2,7 +2,7 @@
 
 # Hi There, I'm Uygar <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50>
 
-## A passionate Turkish software student in the field of front end who trying to improve yourself with the growing technology :computer:
+## A passionate front-end developer who strives to improve with emerging technology :computer:
 
 ## Contact Me! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70">
 
